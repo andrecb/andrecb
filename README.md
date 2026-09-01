@@ -14,12 +14,13 @@ I enjoy exploring new tools, refining workflows, and maintaining a solid foundat
 - **Build Tools:** Vite  
 - **Styling:** Tailwind CSS, SASS, CSS Modules  
 - **UI Libraries:** Material UI, ShadCN UI  
-- **State Management:** Redux, Zustand  
+- **State Management:** Redux, Zustand
+- **Validations:** Zod
 - **Utilities:** Axios, React Hook Form  
 
 ### 🔧 Backend  
 - **Node.js**, **NestJS**, **Prisma**, **PostgreSQL**  
-- Development of **REST APIs**, validation with **Zod**, JSON data handling  
+- Development of **REST APIs**, JSON data handling  
 
 ### ⚙️ DevOps & Infrastructure  
 - **Docker**, Git, GitHub, GitHub Actions  
